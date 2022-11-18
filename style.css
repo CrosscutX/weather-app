@@ -85,6 +85,7 @@ input::placeholder {
   align-items: flex-start;
   font-size: 10rem;
   padding-left: 20px;
+  height: 190px;
 }
 
 .bottom-container {
