@@ -16,7 +16,7 @@ body {
       rgba(255, 255, 255, 0.1),
       rgb(0, 0, 0, 0.8)
     ),
-    url("/img/night-city.jpg");
+    url("/assets/images/night-city.jpg");
   background-size: cover;
   font-family: "Nunito Sans", sans-serif;
 }
