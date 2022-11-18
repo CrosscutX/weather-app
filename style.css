@@ -27,6 +27,13 @@ header {
   justify-content: flex-start;
 }
 
+header p {
+  margin-top: 5px;
+  margin-left: 5px;
+  color: red;
+  visibility: hidden;
+}
+
 main {
   display: flex;
   flex-direction: column;
