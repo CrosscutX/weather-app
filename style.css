@@ -72,9 +72,6 @@ input::placeholder {
   font-size: 2rem;
 }
 
-.number-info {
-}
-
 .number-info span {
   line-height: 6rem;
   font-size: 2rem;
@@ -110,10 +107,4 @@ input::placeholder {
 
 .humidity-label {
   margin-right: 20px;
-}
-
-.wind {
-}
-
-.humidity {
 }
